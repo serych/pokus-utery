@@ -3,4 +3,4 @@
 - první
 - druhý
 - třetí
-* tučný *
+*tučný*
